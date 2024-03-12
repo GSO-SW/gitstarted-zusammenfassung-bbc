@@ -1,3 +1,5 @@
+Hazim Khaled 
+
 -Git Branches sind wie separate Pfade in einem Wald, auf denen verschiedene Entwicklungen gleichzeitig stattfinden können. Jeder Pfad repräsentiert eine andere Idee oder Funktion, die entwickelt wird, ohne die anderen zu beeinflussen. Zum Beispiel gibt es einen Hauptpfad, auf dem der stabile Code liegt, und separate Pfade für neue Funktionen, Fehlerkorrekturen oder Testversionen. Diese Branches ermöglichen es den Entwicklern, geordnet und effizient zu arbeiten, ohne dass Änderungen durcheinander geraten. 
 
  
