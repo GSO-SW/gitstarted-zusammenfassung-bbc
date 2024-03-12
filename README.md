@@ -27,4 +27,14 @@
 - Fetch: Fetch lädt Änderungen und Updates vom entfernten Git-Server herunter, ohne jedoch automatisch lokale Dateien zu aktualisieren. Dadurch können Entwickler sehen, welche Änderungen auf dem Server vorhanden sind, ohne ihre lokalen Dateien zu beeinflussen. 
 
 
+
+- Pull: Der Pull-Befehl kombiniert Fetch und Merge, indem er lokale Dateien mit den neuesten Änderungen vom entfernten Server aktualisiert. Es lädt zunächst die Änderungen vom Server herunter (Fetch) und führt dann einen Merge durch, um die heruntergeladenen Änderungen mit den lokalen Dateien zu kombinieren. 
+
+  
+
+- .gitignore-Datei: Die .gitignore-Datei wird verwendet, um bestimmte Dateien oder Verzeichnisse zu definieren, die von Git ignoriert werden sollen. Dies ist besonders nützlich für temporäre Dateien, Build-Ausgaben oder andere Dateien, die nicht versioniert werden sollen. Durch das Hinzufügen von Dateipfaden oder Muster in die .gitignore-Datei werden diese Dateien von Git beim Tracking ignoriert. 
+
+
+
+
   
