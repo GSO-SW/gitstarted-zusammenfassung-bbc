@@ -16,3 +16,7 @@ Der Staging-Bereich ist wie ein Sammelplatz für deine Änderungen, bevor du sie
 Repository:
 
 Ein Repository ist wie ein spezieller Ordner, in dem deine Projektdaten gespeichert sind. Es ist wie eine Schatztruhe für deine Dateien und ihre Geschichte. Hier werden deine Projekte organisiert und aufbewahrt.
+
+Remote Repository (Entferntes Repository):
+
+Ein Remote-Repository ist wie eine Kopie deines Projekts, die auf einem anderen Computer oder Server gespeichert ist. Es ist wie ein virtueller Raum, den du mit anderen teilen kannst, um gemeinsam an Projekten zu arbeiten. GitHub ist ein Beispiel für eine Plattform, auf der du Remote-Repositories hosten und verwalten kannst.
