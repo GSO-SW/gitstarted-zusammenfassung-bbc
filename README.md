@@ -8,4 +8,23 @@
 
 - Rebase: Rebase ermöglicht es, die Commit-Historie neu zu ordnen, indem Commits aus einem Branch auf einen anderen angewendet werden. Im Gegensatz zum Merge wird die Commit-Historie beim Rebase linearisiert, was dazu beiträgt, eine klarere und sauberere Historie zu erhalten. Dies kann helfen, Konflikte zu vermeiden und die Arbeit anderer Teammitglieder zu respektieren. 
 
+
+
+ 
+
+- Cherry pick: Cherry picking bezieht sich auf die Auswahl bestimmter Commits aus einem Branch und deren Anwendung auf einen anderen. Wenn ein Entwickler nur bestimmte Änderungen aus einem Branch übernehmen möchte, anstatt den gesamten Branch zu mergen, kann er Cherry pick verwenden, um selektiv einzelne Commits auszuwählen und in einen anderen Branch zu übernehmen. 
+
+  
+
+- Reverse: Beim Reverse werden Änderungen rückgängig gemacht, entweder durch Umkehrung der Reihenfolge von Commits oder durch Zurücksetzen auf einen vorherigen Zustand. Dies kann nützlich sein, um Fehler zu beheben oder unerwünschte Änderungen rückgängig zu machen, indem man zu einem früheren Stand zurückkehrt. 
+
+  
+
+- Push: Beim Push werden lokale Commits auf einen entfernten Git-Server hochgeladen, um sie für andere Teammitglieder verfügbar zu machen. Dies ermöglicht es, die Arbeit mit anderen zu teilen und sicherzustellen, dass die Änderungen auf dem Server gesichert sind. 
+
+  
+
+- Fetch: Fetch lädt Änderungen und Updates vom entfernten Git-Server herunter, ohne jedoch automatisch lokale Dateien zu aktualisieren. Dadurch können Entwickler sehen, welche Änderungen auf dem Server vorhanden sind, ohne ihre lokalen Dateien zu beeinflussen. 
+
+
   
